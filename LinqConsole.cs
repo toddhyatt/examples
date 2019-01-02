@@ -12,16 +12,20 @@ namespace LinqExample
         {
             string result = string.Empty;
             System.Text.StringBuilder sb = new System.Text.StringBuilder();
-            foreach (string s in stringList)
-            {
-                sb.AppendLine(s);
-            }
-            result = sb.ToString();
+            //foreach (string s in stringList)
+            //{
+            //    sb.AppendLine(s);
+            //}
             var x = from y in stringList
                     where y.Contains('-')
                     orderby y.Split('-')[0] ,  SortX(y.Split('-')[1]) descending  
                     group y by (y.Split('-')[0]) into z
                     select  z.First();
+            foreach (string s in x)
+            {
+                sb.AppendLine(s);
+            }
+            result = sb.ToString();
 
 
 
