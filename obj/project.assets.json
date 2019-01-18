@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toddh\\OneDrive\\VSCode\\LinqExample\\LinqExample.csproj",
+      "projectUniqueName": "C:\\Users\\toddh\\OneDrive\\VSCode\\examples\\LinqExample.csproj",
       "projectName": "LinqExample",
-      "projectPath": "C:\\Users\\toddh\\OneDrive\\VSCode\\LinqExample\\LinqExample.csproj",
+      "projectPath": "C:\\Users\\toddh\\OneDrive\\VSCode\\examples\\LinqExample.csproj",
       "packagesPath": "C:\\Users\\toddh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toddh\\OneDrive\\VSCode\\LinqExample\\obj\\",
+      "outputPath": "C:\\Users\\toddh\\OneDrive\\VSCode\\examples\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\Users\toddh\OneDrive\VSCode\LinqExample\obj\Debug\netcoreapp2.2\LinqExample.A
 C:\Users\toddh\OneDrive\VSCode\LinqExample\obj\Debug\netcoreapp2.2\LinqExample.AssemblyInfo.cs
 C:\Users\toddh\OneDrive\VSCode\LinqExample\obj\Debug\netcoreapp2.2\LinqExample.dll
 C:\Users\toddh\OneDrive\VSCode\LinqExample\obj\Debug\netcoreapp2.2\LinqExample.pdb
+C:\Users\toddh\OneDrive\VSCode\examples\bin\Debug\netcoreapp2.2\LinqExample.deps.json
+C:\Users\toddh\OneDrive\VSCode\examples\bin\Debug\netcoreapp2.2\LinqExample.runtimeconfig.json
+C:\Users\toddh\OneDrive\VSCode\examples\bin\Debug\netcoreapp2.2\LinqExample.runtimeconfig.dev.json
+C:\Users\toddh\OneDrive\VSCode\examples\bin\Debug\netcoreapp2.2\LinqExample.dll
+C:\Users\toddh\OneDrive\VSCode\examples\bin\Debug\netcoreapp2.2\LinqExample.pdb
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.csprojAssemblyReference.cache
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.csproj.CoreCompileInputs.cache
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.AssemblyInfoInputs.cache
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.AssemblyInfo.cs
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.dll
+C:\Users\toddh\OneDrive\VSCode\examples\obj\Debug\netcoreapp2.2\LinqExample.pdb
